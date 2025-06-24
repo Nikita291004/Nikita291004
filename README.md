@@ -29,22 +29,22 @@
 ### 🧮 Simple Calculator (Java)
 Performs operations like addition, subtraction, multiplication, and division.  
 **Tech Stack:** Java  
-[GitHub Repo](https://github.com/Nikita291004)
+[GitHub Repo](https://github.com/Nikita291004/CODING-SAMURAI-INTERNSHIP-TASK/blob/main/Task%201%20simple%20calculator/calculator.java)
 
 ### 💳 ATM Interface (Java + Swing GUI)
 Simulates an ATM with GUI to check balance, withdraw, and deposit money.  
 **Tech Stack:** Java, Swing  
-[GitHub Repo](https://github.com/Nikita291004)
+[GitHub Repo](https://github.com/Nikita291004/CODING-SAMURAI-INTERNSHIP-TASK/tree/main/Task%202%20Simple%20ATM%20using%20java)
 
 ### ❓ Quiz Application
 Login-based quiz system with timer and scoring functionality.  
 **Tech Stack:** Java  
-[GitHub Repo](https://github.com/Nikita291004)
+[GitHub Repo](https://github.com/Nikita291004/CODING-SAMURAI-INTERNSHIP-TASK/blob/main/Task%203%20Quiz%20application%20using%20java/QuizApp.java)
 
-### ✅ To-Do App (HTML, CSS, JS)
+### ✅ Study planner (HTML, CSS, JS)
 Responsive to-do app with full DOM-based CRUD functionality.  
 **Tech Stack:** HTML, CSS, JavaScript  
-[GitHub Repo](https://github.com/Nikita291004)
+[Project Link](https://study-planner-peach.vercel.app/)
 
 ---
 
@@ -53,6 +53,7 @@ Responsive to-do app with full DOM-based CRUD functionality.
 ### 👩‍💻 Java Programming Intern @ Coding Samurai
 📆 Duration: June 1, 2025 – July 1, 2025  
 💡 Learning core Java and building small-scale applications.
+ [GitHub Repo](https://github.com/Nikita291004/CODING-SAMURAI-INTERNSHIP-TASK)
 
 ---
 
