@@ -1,3 +1,5 @@
+## 🌱 Currently Learning:![Uploading ChatGPT Image Jun 24, 2025, 03_45_54 PM.png…]()
+
 <h1 align="center">✨Hi I'am ,<span style="color:#f48fb1;">NIKITA CHOPDE</span> ✨</h1>
 
 <p align="center">
@@ -7,7 +9,8 @@
 
 ---
 
-## 🌱 Currently Learning:
+## 🌱 Currently Learning:![Uploading ChatGPT Image Jun 24, 2025, 03_45_54 PM.png…]()
+
 - Web Development (HTML, CSS, JavaScript)
 - Java Programming (with GUI applications)
 - Version Control (Git & GitHub)
