@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner image.png" alt="GitHub Banner" />
+  <img src="Nikita_Chopde_GitHub_Banner.jpg" alt="GitHub Banner" height="240" width="1200"/>
 </p>
 
 <h1 align="center">✨Hi I'am ,<span style="color:#f48fb1;">NIKITA CHOPDE</span> ✨</h1>
