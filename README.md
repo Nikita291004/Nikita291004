@@ -1,4 +1,3 @@
-## 🌱 Currently Learning:![Uploading ChatGPT Image Jun 24, 2025, 03_45_54 PM.png…]()
 
 <h1 align="center">✨Hi I'am ,<span style="color:#f48fb1;">NIKITA CHOPDE</span> ✨</h1>
 
@@ -6,10 +5,7 @@
   <strong>B.Tech CSE Student | Gyan Ganga College of Technology | 3rd Topper 🎓</strong><br/>
   <b>CGPA: 8.43 | Aspiring Developer | Java & Web Development Enthusiast</b>
 </p>
-
----
-
-## 🌱 Currently Learning:![Uploading ChatGPT Image Jun 24, 2025, 03_45_54 PM.png…]()
+## 🌱 Currently Learning:!
 
 - Web Development (HTML, CSS, JavaScript)
 - Java Programming (with GUI applications)
