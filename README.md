@@ -1,8 +1,8 @@
-<h1 align="center">✨Hi I Am ,<span style="color:#f48fb1;">NIKITA CHOPDE</span> ✨</h1>
+<h1 align="center">✨Hi I'am ,<span style="color:#f48fb1;">NIKITA CHOPDE</span> ✨</h1>
 
 <p align="center">
   <strong>B.Tech CSE Student | Gyan Ganga College of Technology | 3rd Topper 🎓</strong><br/>
-  <em>CGPA: 8.43 | Aspiring Developer | Java & Web Development Enthusiast</em>
+  <b>CGPA: 8.43 | Aspiring Developer | Java & Web Development Enthusiast</b>
 </p>
 
 ---
@@ -59,9 +59,10 @@ Responsive to-do app with full DOM-based CRUD functionality.
 
 ## 🏅 Certifications:
 
-- **Fortinet Cybersecurity Internship** – EduSkills  
-- **Zscaler Virtual Internship** – EduSkills  
-- **Palo Alto Networks Cybersecurity Internship** – EduSkills
+- **Fortinet Cybersecurity Internship**.[Certificate](https://drive.google.com/file/d/1OUACmeWfBLOp84qH0ezmrpJUWjBZB5m1/view?usp=drivesdk) 
+- **Zscaler Virtual Internship**.[Certificate](https://drive.google.com/file/d/1OR9S7Vl9HZbdTbXul4W36VAJ5BnYA5wI/view?usp=drivesdk)
+- **Palo Alto Networks Cybersecurity Internship**.[Certificate](https://drive.google.com/file/d/1O_95QCN0SM7KN5LSYEHVWnAFue6KqFAx/view?usp=drivesdk)
+  
 
 ---
 
@@ -69,7 +70,7 @@ Responsive to-do app with full DOM-based CRUD functionality.
 - 📧 [nikitachopde29@gmail.com](mailto:nikitachopde29@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/nikita-chopde)  
 - 🐙 [GitHub](https://github.com/Nikita291004)  
-- ☎️ 9343458471  
+- ☎️  [Contact no.] 9343458471  
 
 ---
 
@@ -80,9 +81,9 @@ Responsive to-do app with full DOM-based CRUD functionality.
 ---
 
 ## 🚀 Coding Platforms:
-- 💻 LeetCode (Coming Soon)  
-- 💻 GeeksforGeeks (Coming Soon)
+- 💻 LeetCode (https://leetcode.com/u/nikitachopde/)  
+- 💻 GeeksforGeeks (https://www.geeksforgeeks.org/user/cse23nikiv1it/)
 
 ---
 
-_Thanks for stopping by! Feel free to explore my repositories or connect with me._ 💖
+_Thanks for visiting !! Feel free to explore my repositories or connect with me._ 💖
