@@ -1,11 +1,16 @@
+<p align="center">
+  <img src="banner image.png" alt="GitHub Banner" />
+</p>
 
 <h1 align="center">✨Hi I'am ,<span style="color:#f48fb1;">NIKITA CHOPDE</span> ✨</h1>
+
 
 <p align="center">
   <strong>B.Tech CSE Student | Gyan Ganga College of Technology | 3rd Topper 🎓</strong><br/>
   <b>CGPA: 8.43 | Aspiring Developer | Java & Web Development Enthusiast</b>
 </p>
-## 🌱 Currently Learning:!
+
+## 🌱 Currently Learning:
 
 - Web Development (HTML, CSS, JavaScript)
 - Java Programming (with GUI applications)
